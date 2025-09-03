@@ -4,7 +4,7 @@ A compact Android alarm app with Material3 dynamic theming, reliable alarm sched
 
 ---
 
-## Key features (ordered by importance)
+## Key features
 
 1. **Dynamic Material3 colors** — Adapts the app’s color scheme to the user/device palette for a native, accessible look.
 
